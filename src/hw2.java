@@ -13,6 +13,7 @@ public class hw2 {
         System.out.println(b*a);
         System.out.println(b-a);
         System.out.println(res);
+        //System.out.println(res);
 
         System.out.println(smail);
 
